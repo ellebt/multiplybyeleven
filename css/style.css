@@ -1,0 +1,45 @@
+* {
+    font-family: Krungthep;
+    font-size: 25px;
+    background: #68BBB8;
+    color: #FFEEB7;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  h4 {
+    font-size: 15px;
+    color: #D8565B;
+  }
+  
+  .info {
+    font-size: 20px;
+    color: #D8565B;
+  }
+  
+  input {
+    background: white;
+    border-radius: 10px;
+    padding: 7px;
+    color: #D8565B;
+  }
+  
+  button {
+      background: #439491;
+      padding: 10px;
+      border-radius: 10px;
+  }
+  
+  
+  .column {    
+      display: inline-block;
+  }
+  
+  .wrapper {
+    font-size: 50px;
+  }
+  
+  
